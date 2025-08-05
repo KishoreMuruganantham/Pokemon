@@ -74,8 +74,8 @@ PokéVerse is a technically rich project inspired by the official games and powe
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/KishoreMuruganantham/PokeVerse.git
-    cd PokeVerse
+    git clone https://github.com/KishoreMuruganantham/PokeVerse-The-Complete-Open-Source-Pokemon-Development-Kit.git
+    cd PokeVerse-The-Complete-Open-Source-Pokemon-Development-Kit
     ```
 2. **Install Ruby (if needed)**
 3. **Setup Pokémon Essentials v21.1**
